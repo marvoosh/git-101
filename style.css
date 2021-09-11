@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+	color: B5B682;
+}
+
+#logo {
+	border-radius: 50%;
+	height: 80px;
+	width: 80px;
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column;
+}
+
